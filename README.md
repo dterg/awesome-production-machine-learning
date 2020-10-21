@@ -277,6 +277,7 @@ This repository contains a curated list of awesome open source libraries that wi
 
 
 ## Data Labelling Tools and Frameworks
+* [AlpacaTag](https://github.com/INK-USC/AlpacaTag) ![]() - An active learning-based crowd annotation extension for doccano, specifically (and only) for sequence tagging (e.g. NER). 
 * [COCO Annotator](https://github.com/jsbroks/coco-annotator) ![](https://img.shields.io/github/stars/jsbroks/coco-annotator.svg?style=social) - Web-based image segmentation tool for object detection, localization and keypoints
 * [Computer Vision Annotation Tool (CVAT)](https://github.com/opencv/cvat) ![](https://img.shields.io/github/stars/opencv/cvat.svg?style=social) - OpenCV's web-based annotation tool for both VIDEOS and images for computer algorithms.
 * [Doccano](https://github.com/chakki-works/doccano) ![](https://img.shields.io/github/stars/chakki-works/doccano.svg?style=social) - Open source text annotation tools for humans, providing functionality for sentiment analysis, named entity recognition, and machine translation.
