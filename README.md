@@ -385,6 +385,7 @@ www.youtube.com/watch?v=zbjub8BQPyE)
 
 ## Feature Engineering Automation
 * [auto-sklearn](https://automl.github.io/auto-sklearn/) ![](https://img.shields.io/github/stars/automl/auto-sklearn.svg?style=social) - Framework to automate algorithm and hyperparameter tuning for sklearn
+* [AUTOCAT](https://autocat.apps.allenai.org/) ![]() - Online application for training a text classifier (BOW, CNN, Ensemble; based on SpaCy) by uploading data to AI2's servers, hosts a mini demo page with interactive models, and make model available through pip.
 * [AutoGluon](https://autogluon.mxnet.io/) ![](https://img.shields.io/github/stars/awslabs/autogluon.svg?style=social) - Automated feature, model, and hyperparameter selection for tabular, image, and text data on top of popular machine learning libraries (Scikit-Learn, LightGBM, CatBoost, PyTorch, MXNet)
 * [AutoML-GS](https://github.com/minimaxir/automl-gs) ![](https://img.shields.io/github/stars/blue-yonder/tsfresh.svg?style=social) - Automatic feature and model search with code generation in Python, on top of common data science libraries (tensorflow, sklearn, etc)
 * [automl](https://github.com/ClimbsRocks/auto_ml) ![](https://img.shields.io/github/stars/ClimbsRocks/automl.svg?style=social) - Automated feature engineering, feature/model selection, hyperparam. optimisation

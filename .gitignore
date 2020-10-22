@@ -83,3 +83,8 @@ tags.*
 .tags
 .tags.*
 
+.idea/vcs.xml
+.idea/modules.xml
+.idea/misc.xml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/awesome-production-machine-learning.iml
